@@ -1,16 +1,3 @@
-﻿/*****************************************************************************
-**								SAKARYA ÜNİVERSİTESİ
-**			         BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**					      BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				            PROGRAMLAMAYA GİRİŞİ DERSİ
-**
-**							ÖDEV NUMARASI…...: Proje 1
-**							ÖĞRENCİ ADI......: TARIK TOPLU
-**							ÖĞRENCİ NUMARASI.: G231210010
-**							DERS GRUBU.......: B (İÖ)
-****************************************************************************/
-
-
 #include <windows.h>
 #include <fstream>
 #include <iostream>
