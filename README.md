@@ -13,3 +13,5 @@ This project is a C++ application developed to manage information about football
 - C++ Programming Language
 - File Handling
 - Class Structure
+
+This project was developed for the Introduction to Programming course at the Computer Engineering Department of Sakarya University.
